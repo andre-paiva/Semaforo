@@ -1,3 +1,3 @@
 # Semaforo JS
 
-Projeto de semaforo para estudo de Javascript
+Projeto de semáforo para estudo de Javascript, HTML e CSS
